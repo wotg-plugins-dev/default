@@ -1,0 +1,2 @@
+addPlugin(function () {
+});
